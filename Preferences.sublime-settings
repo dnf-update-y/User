@@ -1,0 +1,17 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric"
+		}
+	],
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_size": 13,
+	"git_command": "C:\\Program Files\\Git\\bin\\git.exe",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Flatland Dark.sublime-theme"
+}

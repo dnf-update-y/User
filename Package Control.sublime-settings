@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"Emmet",
+		"Github Tools",
+		"LaTeX Word Count",
+		"LaTeXTools",
+		"Monokai Extended",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SublimeGit",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Theme - Flatland"
+	]
+}
